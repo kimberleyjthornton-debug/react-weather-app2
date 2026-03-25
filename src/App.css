@@ -6,3 +6,8 @@
 .weather-data-ul {
   list-style-type: none;
 }
+
+footer {
+  font-size: 14px;
+  opacity: 0.7;
+}
